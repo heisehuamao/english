@@ -1,0 +1,80 @@
+> 鼻
+
+## nas
+
+- nasopharyngeal: a.鼻咽的 pharyng-咽
+- nasal: a.鼻的，鼻声的，尖锐的 n.鼻音
+- nasogastric: a.鼻胃的 gastr-胃
+- nasotracheal: a.鼻气管的 trache-管
+- nasturtium: n.旱金莲 turt-扭曲
+- vomeronasal: a.犁鼻骨的 vomer-犁骨
+- supranasal: a.鼻上的
+- subnasal: a.鼻下的
+- alveolosubnasal: a.牙槽鼻下点的 alveolo-牙槽
+- septonasal: a.鼻中隔得 septo-隔膜
+- retronasal: a.鼻后的
+- postnasal: a.鼻后的
+- pharyngonasal: a.咽鼻的
+- pernasal: a.经鼻的
+- paranasal: a.鼻边的
+- palatonasal: a.腭鼻的
+- oronasal: a.口鼻的
+- orinasal: a.口鼻的
+- orbitonasal: a.框鼻的
+- oculonasal: a.眼鼻的 oculo-眼睛
+- nasally: ad.鼻声的，尖锐的
+- nasalize: vi.用鼻音发声
+- nasalization: n.鼻音化
+- nasality: n.鼻音性，鼻音
+- mesonasal: a.鼻中部的
+- lacrimonasal: a.泪鼻的 lacrimo-泪
+- labionasal: a.唇鼻的 labio-唇
+- intranasal: a.鼻内的
+- internasal: a.鼻孔间的
+- frontonasal: a.额鼻的
+- ethmonasal: a.筛鼻骨的 ethmo-筛骨
+- endonasal: a.鼻内的
+- dorsonasal: a.鼻梁的，鼻背的 dorso-背
+- dentonasal: a.牙鼻的
+- bucconasal: a.颊鼻的 bucco-颊
+- binasal: a.两鼻侧的
+- aurinasal: a.耳鼻的
+- antronasal: a.鼻上颌窦的 antro-窦
+- alveolonasal: a.牙槽鼻的
+- alinasal: a.鼻翼的 ali-翼
+- adnasal: a.近鼻的
+
+## nos
+
+- wet-nose: a.年轻无经验的
+- snub-nosed: a.短炮筒的，塌鼻的 snub-冷落，制止
+- shovelnose: n.鲸鲛
+- shovel-nosed: a.鼻阔而扁平的
+- sharp-nosed: a.嗅觉灵敏的
+- nozzle: n.管口，喷嘴
+- multiple-nozzle: a.多喷嘴的
+- nosy: a.大鼻子的，好管闲事的 n.大鼻者
+- nosiness: n.好打听，爱管闲事
+- nosily: ad.好打听地
+- nostril: n.鼻孔
+- nosing: n.楼梯踏级的前缘
+- nosey: a.大鼻子的，爱管闲事的
+- nosewheel: n.飞机机头的前轮
+- noserag: n.手帕
+- noser: n.强烈逆风
+- nosepiece: n.鼻羁，鼻状物，眼镜的鼻梁夹
+- noseless: a.无鼻子的，无喷嘴的
+- nosegay: n.花束 gay-欢快的
+- nosedive: vi.俯冲
+- nosed: a.有...鼻子的
+- nosebrain: n.嗅脑
+- nosebleed: n.鼻出血
+- noseband: n.鼻羁
+- nosebag: n.草料袋
+- nose-thumbing: n.轻蔑动作
+- nose-count: n.清点人数
+- hooknose: n.鹰钩鼻
+- hook-nosed: a.鹰钩鼻的
+- hawk-nosed: a.鹰钩鼻的
+- hard-nosed: a.嗅觉不好的
+- brownnose: vt.拍...马屁
