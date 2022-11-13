@@ -1,0 +1,85 @@
+> 计量，测量
+
+## meter
+ 
+- diameter: n.直径
+- dimeter: n.二韵脚，二步格诗行
+- geometer: n.几何学者，尺蠖
+- heliometer: n.量日化 helio-太阳
+- heptameter: n.七步格 hepta-七
+- hexameter: n.六步格
+- hypsometer: n.测高计
+- meter: n.米，公尺，韵律 vt.以仪表计量
+- meterage: n.测量，用仪表计量
+- octameter: n.八音步行诗
+- parameter: n.参数，界限
+- perimeter: n.周长
+- radiotelemetering: n.无线电遥测
+- speedometer: n.速度计，里程计
+- telemetering: n.遥测
+- trigonometer: n.三角形计算工具，三角学家
+- trimeter: n.三音步 a.三音步的
+- zoometer: n.动物数计
+
+## metr
+
+- anthropometric: a.人体测量的
+- audiometry: n.听力测定
+- biometrician: n.生物统计学家
+- biometrics: n.生物统计学
+- chronometrical: a.测时学的
+- colorimetric: a.比色的
+- craniometrica: a.头颅测量的 cranio-头颅
+- diametral: a.直径的
+- diametric: a.直径的，正好相反的
+- econometrics: n.计量经济学
+- electrometric: a.电测量的
+- galvanometric: a.电流计的 galvano-电流
+- galvanometry: n.电流测定
+- gravimetric: a.测定重量的
+- gravimetrical: a.测定重量的
+- hydrometrical: a.比重计的
+- hydrometry: n.液体比重测定
+- hygrometry: n.湿度测定 hygro-湿度
+- hypermetropic: a.远视的 op-视力
+- hypsometric: a.测高术的
+- isometric: a.立方体的，等体积的，等容量的，等距离的，等角的
+- metre: n.米，韵律
+- metric: a.米尺的，公制的，计量的
+- metrical: a.韵律的，测量的
+- metricate: vt.采用公制
+- metrician: n.韵律学家
+- metrics: n.韵律学，度量
+- metrological: a.度量衡学的
+- metrology: n.度量衡学
+- metronome: n.节拍器  nome-法则
+- micrometric: a.微测的
+- optometrist: n.验光师，配镜师
+- parametric: a.参数的，参量的
+- photometric: a.光度学的
+- piezometric: a.量压的 piezo-压力
+- piezometry: n.压力测定
+- planimetry: n.平面几何
+- pluviometric: a.雨量计的 pluvio-雨
+- psychometrics: n.心理测验学
+- rheometry: n.电流测定 rheo-流
+- sociometry: n.社会测量
+- spectrometric: a.光谱测定的 spectro-看
+- spirometric: a.呼吸量测器的，呼吸量测定法的 spiro-呼吸
+- symmetry: n.对称
+- telemetric: a.遥测的
+- thermometric: a.温度计的
+- trigonometric: a.三角法的
+- trigonometrical: a.三角的，三角学的，三角法的
+- trimetric: a.三步音的
+- volumetry: n.容量测定
+- zoometric: a.动物测定的
+- zoometry: n.动物测定nometric:
+- audiometric: a.听力测定的
+- emmetropia: n.正视眼
+- ergometric: a.测力计的
+- hypermetropia: n.远视
+- manometric: a.压力计的 mano-压力
+- radioimmunometric: a.放射免疫测定的
+- radiometric: a.放射测定的
+- trimetrogon: n.三镜头航空照相 gon-角
