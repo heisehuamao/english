@@ -1,0 +1,44 @@
+> 管
+
+## pipe
+
+- pipe: n.管，烟斗，管乐器 v.以管输送，吹奏，尖声说
+- windpipe: n.气管
+- vent-pipe: n.通风管，排气管
+- stovepipe: n.火炉烟囱，大礼帽
+- standpipe: n.竖管
+- pipy: a.管状的，有管的，发尖叫声的
+- pipey: n.管皱皮革
+- pipette: n.吸量管，吸移管
+- micropipette: n.微量吸移管
+- pipet: n.吸量管，吸移管
+- micropipet: n.微量吸移管
+- microhemopipet: n.血液微量管
+- pipestem: n.烟斗柄，细长的东西
+- piper: n.吹笛者，风笛手
+- sandpiper: n.矞鸟
+- pipeman: n.管工
+- pipeline: n.（长距离输送石油，天然气的）管道，已筹划的（in the pipeline）
+- superpipeline: n.超级流水线
+- superpipelining: n.超级流水线技术
+- pipelining: n.流水线
+- macropipeline: n.宏流水线
+- pipeless: a.无管的
+- pipelayer: n.管道安装工
+- pipeful: n.一烟斗
+- pipefriction: n.管摩擦
+- pipefitter: n.管工
+- pipefish: n.杨枝鱼，海龙
+- piped: a.酒醉的
+- pipe-clay: vt.用陶土涂白，整理
+- Panpipe: n.排箫，牧羊神之笛
+- hosepipe: n.软管
+- hornpipe: n.号笛，号笛舞曲
+- gaspipe: n.煤气管
+- fall-pipe: n.水落管
+- drainpipe: n.排水管
+- downpipe: n.水落管
+- breathing-pipe: n.通气管
+- blowpipe: n.吹气管
+- bagpipe: n.风笛
+- bagpiper: n.吹风笛的人
